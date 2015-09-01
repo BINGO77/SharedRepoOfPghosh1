@@ -10,7 +10,7 @@ namespace TestDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("TestDemo GAC");
+            Console.WriteLine("Test Branch POC");
         }
     }
 }
